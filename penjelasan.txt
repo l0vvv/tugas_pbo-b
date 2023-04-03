@@ -1,7 +1,6 @@
 Tugas PBO
 
 Functional programming dan OOP adalah paradigma pemrograman yang berbeda dalam pendekatan mereka untuk menyelesaikan masalah dan merancang program.
-
 Dalam functional programming, fokus utama adalah pada fungsi dan pengolahan data. Program dipandang sebagai 
 serangkaian fungsi yang memproses input untuk menghasilkan output, dan tidak ada keadaan yang disimpan antara 
 pemanggilan fungsi. Fungsi-fungsi dalam functional programming tidak memiliki efek samping dan sering kali 
