@@ -1,0 +1,36 @@
+Contoh program functional programming dalam Python adalah sebagai berikut:
+# Fungsi untuk menghitung nilai faktorial
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+# Fungsi untuk mencari bilangan prima
+def is_prime(n):
+    if n < 2:
+        return False
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+
+
+
+Contoh program OOP dalam Python adalah sebagai berikut:
+# Definisikan kelas 'Person'
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+    
+    def greeting(self):
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+
+# Buat objek dari kelas 'Person'
+person1 = Person("John", 30)
+person2 = Person("Jane", 25)
+
+# Panggil method dari objek 'Person'
+person1.greeting()
+person2.greeting()
