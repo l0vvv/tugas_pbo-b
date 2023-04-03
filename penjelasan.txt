@@ -1,0 +1,10 @@
+Tugas PBO
+
+Functional programming dan OOP adalah paradigma pemrograman yang berbeda dalam pendekatan mereka untuk menyelesaikan masalah dan merancang program.
+
+Dalam functional programming, fokus utama adalah pada fungsi dan pengolahan data. Program dipandang sebagai serangkaian fungsi yang memproses input untuk menghasilkan output, dan tidak ada keadaan yang disimpan antara pemanggilan fungsi. Fungsi-fungsi dalam functional programming tidak memiliki efek samping dan sering kali bersifat immutabel.
+Sementara itu, dalam OOP, fokus utama adalah pada objek dan hubungan antara objek tersebut. Program dirancang sebagai serangkaian objek yang berinteraksi satu sama lain untuk menyelesaikan tugas. Setiap objek memiliki state dan behavior yang didefinisikan oleh kelas.
+
+Konsep utama dalam OOP adalah inheritance, encapsulation, dan polymorphism.
+Dalam Python, keduanya dapat digunakan dalam kombinasi atau terpisah tergantung pada kebutuhan. Python memiliki dukungan yang baik untuk keduanya dan dapat dengan mudah menggabungkan konsep-konsep dari keduanya.
+Secara umum, functional programming lebih cocok digunakan untuk memproses data dalam skala besar dan memperoleh hasil yang konsisten. Sementara itu, OOP lebih cocok untuk aplikasi yang kompleks yang membutuhkan hierarki objek dan pemisahan kelas dari implementasi.
